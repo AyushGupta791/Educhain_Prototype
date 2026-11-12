@@ -4,7 +4,7 @@ Educational project for the course Introduction to Finance. Not a real product, 
 
 Team 2 - Astana IT University, Introduction to Finance, 2026-2027. Supervisor: Nurkhat Ibadildin, Associate Professor.
 
-Demo video: [INSERT LINK]  |  Testnet contract address: none (local Hardhat network only)
+Demo video: (https://drive.google.com/file/d/1KD-BRJS-CRU0MKyA4rARiXe8j7AJqmJW/view?usp=sharing) |  Testnet contract address: none (local Hardhat network only)
 
 ## What it does
 A smart contract that registers the SHA-256 hash of a **synthetic** academic certificate, lets anyone verify a hash, and lets the issuing university revoke its own records. Original files and personal data stay off-chain; only a hash and an opaque reference ID are stored.
