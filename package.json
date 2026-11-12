@@ -1,0 +1,17 @@
+{
+  "name": "educhain-prototype",
+  "version": "1.0.0",
+  "description": "Educational prototype: certificate hash registry on a local Hardhat network",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "demo": "hardhat run scripts/demo.js"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.0.2",
+    "hardhat": "^2.22.0"
+  }
+}
